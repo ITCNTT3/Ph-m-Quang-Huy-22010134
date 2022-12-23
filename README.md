@@ -19,4 +19,4 @@ def timchuso(lst):
             j = j//0
         if j % 2 != 0:
             print(i )
-        end.
+       end.
